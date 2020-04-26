@@ -15,6 +15,7 @@ Building microservices with:
 - Spring Security
 - Spring Cloud Config Server
 - ELK stack
+
 I also deployed them in Docker containers on multiple EC2 Linux machines
 
 **How was the course?**
