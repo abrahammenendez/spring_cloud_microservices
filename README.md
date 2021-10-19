@@ -21,7 +21,3 @@ I also deployed them in Docker containers on multiple EC2 Linux machines.
 **How was the course?**
 
 I have used some of the tech teached in this course, but I feel like I learned a lot anyways.
-
-**Additional info**
-
-For the past six years I've taken a lot of courses in my free time. Sadly, I never thought about compiling them into a list. Since 2019, I've been trying to write down (and rate) every new course I take. You can see it [here](https://github.com/abrahammenendez/courses/).
